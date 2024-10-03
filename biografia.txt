@@ -1,1 +1,3 @@
-Chac,S. and Straub, B. Pro Git.Apress
+Chac,S and Strub,B.pro git.Apress.
+Loeliger,J and Mc Cullough,M.Version control With git.O´Reily.
+Hodson.R.R.RY´s git. Tutorial.Smashwords (2014).
